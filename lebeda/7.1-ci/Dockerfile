@@ -1,4 +1,4 @@
-FROM fmasa/lebeda:7.1
+FROM jstanek/lebeda:7.1
 
 MAINTAINER Jan Stanek <jan.stanek@skaut.cz>
 
