@@ -1,6 +1,6 @@
 FROM fmasa/lebeda:7.1
 
-MAINTAINER Frantisek Masa <frantisekmasa1@gmail.com>
+MAINTAINER Jan Stanek <jan.stanek@skaut.cz>
 
 RUN apt-get update
 
