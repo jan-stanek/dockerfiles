@@ -1,6 +1,6 @@
 FROM php:7.1-apache
 
-MAINTAINER Frantisek Masa <frantisekmasa1@gmail.com>
+MAINTAINER Jan Stanek <jan.stanek@skaut.cz>
 
 ADD run.sh /run.sh
 
